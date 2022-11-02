@@ -1,1 +1,1 @@
-# Linux_Config_File
+# bashrc_file
