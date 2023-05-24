@@ -47,3 +47,27 @@
       type = Terminal
       uuid = 8175ace0-311b-41d7-9bda-d166a4987254
 [plugins]
+
+
+
+
+
+# 配置文件2：
+#[global_config]
+#[keybindings]
+#[profiles]
+#  [[default]]
+#    background_darkness = 0.76
+#    use_system_font = False
+#    font = FreeMono 12
+#    background_type = transparent
+#    background_image = None
+#[layouts]
+#  [[default]]
+#    [[[child1]]]
+#      type = Terminal
+#      parent = window0
+#    [[[window0]]]
+#      type = Window
+#      parent = ""
+#[plugins]
